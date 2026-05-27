@@ -1,0 +1,11 @@
+encounter_id,patient_id,encounter_date,encounter_type,provider_name,facility
+1001,1,2024-01-15,Outpatient,Dr. Adams,Springfield General Hospital
+1002,2,2024-01-18,Emergency,Dr. Baker,Chicago Medical Center
+1003,3,01/20/2024,Inpatient,Dr. Clark,Naperville Health Clinic
+1004,1,2024-02-10,Outpatient,Dr. Adams,Springfield General Hospital
+1005,4,2024-02-14,Telehealth,Dr. Davis,Evanston Virtual Care
+1006,5,02-28-2024,Outpatient,Dr. Evans,Aurora Family Practice
+1007,7,2024-03-05,Emergency,Dr. Foster,Peoria Regional Medical
+1008,9,2024-03-12,Inpatient,Dr. Grant,Rockford Memorial Hospital
+1009,10,2024-03-20,Outpatient,Dr. Hill,Champaign Health Center
+1010,2,2024-04-01,Follow-up,Dr. Baker,Chicago Medical Center

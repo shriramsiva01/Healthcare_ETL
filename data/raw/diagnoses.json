@@ -1,0 +1,12 @@
+[
+  {"diagnosis_id": 1, "encounter_id": 1001, "icd_code": "J06.9", "description": "Acute upper respiratory infection", "severity": "Mild"},
+  {"diagnosis_id": 2, "encounter_id": 1002, "icd_code": "I21.0", "description": "Acute ST elevation myocardial infarction", "severity": "Critical"},
+  {"diagnosis_id": 3, "encounter_id": 1003, "icd_code": "K35.80", "description": "Unspecified acute appendicitis", "severity": "Severe"},
+  {"diagnosis_id": 4, "encounter_id": 1004, "icd_code": "E11.9", "description": "Type 2 diabetes mellitus without complications", "severity": "Moderate"},
+  {"diagnosis_id": 5, "encounter_id": 1005, "icd_code": "F32.1", "description": "Major depressive disorder, single episode, moderate", "severity": "Moderate"},
+  {"diagnosis_id": 6, "encounter_id": 1006, "icd_code": "M54.5", "description": "Low back pain", "severity": "Mild"},
+  {"diagnosis_id": 7, "encounter_id": 1007, "icd_code": "S52.501A", "description": "Unspecified fracture of lower end of right radius", "severity": "Severe"},
+  {"diagnosis_id": 8, "encounter_id": 1008, "icd_code": "INVALID", "description": "Test invalid code", "severity": "Unknown"},
+  {"diagnosis_id": 9, "encounter_id": 1009, "icd_code": "J45.20", "description": "Mild intermittent asthma, uncomplicated", "severity": "Mild"},
+  {"diagnosis_id": 10, "encounter_id": 1010, "icd_code": "I21.0", "description": "Follow-up for myocardial infarction", "severity": "Moderate"}
+]

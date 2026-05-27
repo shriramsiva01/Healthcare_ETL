@@ -1,0 +1,11 @@
+patient_id,first_name,last_name,date_of_birth,gender,phone,ssn,address,city,state,zip
+1,John,Doe,1985-03-15,M,555-123-4567,123-45-6789,123 Main St,Springfield,IL,62701
+2,Jane,Smith,1990-07-22,Female,555-987-6543,987-65-4321,456 Oak Ave,Chicago,IL,60601
+3,Robert,Johnson,12/01/1978,Male,(555) 246-8135,111-22-3333,789 Pine Rd,Naperville,IL,60540
+4,Emily,Williams,1995/11/30,f,5552468135,444-55-6666,321 Elm St,Evanston,IL,60201
+5,Michael,Brown,03-28-1982,MALE,555.135.7924,777-88-9999,654 Maple Dr,Aurora,IL,60502
+6,john,doe,1985-03-15,M,555-123-4567,123-45-6789,123 Main St,Springfield,IL,62701
+7,Sarah,Davis,1988-09-14,Female,555-369-2580,222-33-4444,987 Cedar Ln,Peoria,IL,61602
+8,,,1970-01-01,Unknown,,,,,IL,
+9,David,Wilson,1992-05-06,m,555-741-8520,555-66-7777,246 Birch Ct,Rockford,IL,61101
+10,Lisa,Anderson,1987-12-19,F,555-852-9630,888-99-0000,135 Walnut St,Champaign,IL,61820
